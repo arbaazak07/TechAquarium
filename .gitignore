@@ -1,0 +1,27 @@
+# Build output folders
+.pio/
+build/
+
+# Arduino / ESP32 compiled binaries
+*.bin
+*.elf
+*.hex
+
+# VSCode settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Environment variables or secrets
+.env
+*.env
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
